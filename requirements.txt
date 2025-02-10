@@ -1,6 +1,7 @@
 numpy
-opencv_contrib_python
-opencv_python_headless
 Pillow
 streamlit
 deepface
+opencv-contrib-python==4.11.0.86
+opencv-python==4.11.0.86
+opencv-python-headless==4.11.0.86
