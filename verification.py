@@ -1,5 +1,5 @@
 import streamlit as st
-import deepface.DeepFace as DeepFace
+from deepface import DeepFace
 from PIL import Image
 import numpy as np
 import cv2
