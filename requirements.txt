@@ -1,7 +1,11 @@
+deepface==0.0.79
+tensorflow==2.12.0
+keras==2.12.0
+torch==2.0.1
+torchvision==0.15.2
+protobuf==3.20.3
+opencv-python
+pandas
 numpy
-Pillow
 streamlit
-deepface
-opencv_contrib_python
-opencv_python
-opencv_python_headless
+Pillow
